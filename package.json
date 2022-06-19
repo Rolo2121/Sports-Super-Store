@@ -1,0 +1,25 @@
+{
+  "name": "sports-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolo2121/Sports-Store.git"
+  },
+  "author": "jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rolo2121/Sports-Store/issues"
+  },
+  "homepage": "https://github.com/Rolo2121/Sports-Store#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.0"
+  }
+}
